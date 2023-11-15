@@ -1,3 +1,5 @@
+# heading 1 High-End Tech
+# heading 2 SkyNet
 Hier ist eine Überschrift 
 UNIX is great !
 I like C programming language.
@@ -7,3 +9,5 @@ Swift is the modern language for MacOS iOS development.
 Hello World !
 
 Git is also very important !
+Repository renewed !
+Modern Technologies at a glance...
