@@ -12,4 +12,5 @@ Git is also very important !
 Repository renewed !
 Modern Technologies at a glance...
 
-Hier ist einLink auf Google
+Hier ist ein Link auf Google
+https://www.google.com
