@@ -1,15 +1,15 @@
 # High-End Tech
 # SkyNet
-UNIX!
-Linux!
-C programming language.
-Objective-C is very cool.
-Swift is the modern language for MacOS iOS development.
+* UNIX!
+* Linux!
+* C programming language.
+* Objective-C is very cool.
+* Swift is the modern language for MacOS iOS development.
 
-Hello World !
+* Hello World !
 
-Git!
-Gihub!
+* Git!
+* Gihub!
 
 
 https://www.google.com
