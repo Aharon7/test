@@ -1,6 +1,6 @@
 # heading 1 High-End Tech
 # heading 2 SkyNet
-Hier ist eine Überschrift 
+#Hier ist ein Kommentar 
 UNIX is great !
 I like C programming language.
 Objective-C is also very cool.
