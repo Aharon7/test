@@ -9,7 +9,7 @@
 * Hello World !
 
 * Git!
-* Gihub!
+* Github!
 
 
 https://www.google.com
